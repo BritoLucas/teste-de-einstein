@@ -1,4 +1,24 @@
 % Cor
+%     ['Amarela','Azul','Branco','Verde','Vermelho']
+% Nacionalidade
+%     ['Alemão','Dirnamarquês','Inglês','Norueguês','Sueco']
+% Bebida
+%     ['Água','Café','Cerveja','Chá','Leite']
+% Cigarro
+%     ['Blendes','BlueMaster','Dunhill','Pail Mall','Prince']
+% Animal
+%     ['Cachorros','Cavalos','Gatos','Passaros','Peixes']
+
+% 1 Há 5 casas de diferentes cores;
+% 2 Em cada casa mora uma pessoa de uma diferente
+%   nacionalidade;
+% 3 Esses 5 proprietários bebem diferentes bebidas,
+%   fumam diferentes tipos de cigarros e têm um
+%   certo animal de estimação;
+% 4 Nenhum deles têm o mesmo animal, fumam o mesmo
+%   cigarro ou bebem a mesma bebida.
+% casa=[1,2,3,4,5].
+% Cor
 nacionalidade(1,noruegues).
 
 cor(2,azul).
